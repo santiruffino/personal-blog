@@ -1,0 +1,5 @@
+---
+title: my-blog
+description: Just another Contentz site
+language: en
+incremental: false # Change to `true` if your server support keeping `.cache` and `public` folders

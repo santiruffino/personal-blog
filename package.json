@@ -1,0 +1,30 @@
+{
+  "name": "my-blog",
+  "description": "Just another Contentz site",
+  "scripts": {
+    "build": "contentz build",
+    "social": "contentz social",
+    "write": "contentz write",
+    "watch": "watch \"yarn build\" articles pages",
+    "dev": "concurrently \"yarn watch\" \"yarn start\"",
+    "start": "serve public -p 3000"
+  },
+  "keywords": [
+    "contentz",
+    "website"
+  ],
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {},
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.mdx": [
+      "yarn social",
+      "git add"
+    ]
+  }
+}
