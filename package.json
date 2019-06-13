@@ -1,5 +1,5 @@
 {
-  "name": "Santiago Ruffino's Blog",
+  "name": "Contentz",
   "description": "Is not another programming blog",
   "scripts": {
     "build": "contentz build",
