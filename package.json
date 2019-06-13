@@ -1,6 +1,6 @@
 {
-  "name": "my-blog",
-  "description": "Just another Contentz site",
+  "name": "Santiago Ruffino's Blog",
+  "description": "Is not another programming blog",
   "scripts": {
     "build": "contentz build",
     "social": "contentz social",
