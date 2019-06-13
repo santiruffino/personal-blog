@@ -14,7 +14,9 @@
     "website"
   ],
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "contentz": "^3.13.2"
+  },
   "devDependencies": {},
   "husky": {
     "hooks": {
