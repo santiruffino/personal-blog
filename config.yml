@@ -7,6 +7,6 @@ incremental: false # Change to `true` if your server support keeping `.cache` an
 repository: https://github.com/santiruffino/personal-blog
 analytics: UA-140142531-1
 social:
-  twitter: santiagoruffin3
+  twitter: santiruffinodev
   github: santiruffino
 icon: /static/icon_48.png
