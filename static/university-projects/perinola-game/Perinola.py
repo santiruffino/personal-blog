@@ -31,7 +31,7 @@ syyyyyyyssss::yyysyyyyyyys.
 
 # Reglas de juego
 
-reglas = input('\nDesean leer las reglas? (S/N): ')
+reglas = input('\nDesean leer las reglas del juego? (S/N): ')
 
 if reglas == 's' or reglas == 'S' or reglas == 'Si' or reglas == 'si':
     input("""
