@@ -2,6 +2,21 @@
 # yarn lockfile v1
 
 
+"@contentz/build@^2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@contentz/build/-/build-2.3.0.tgz#0d9c44e854a347b3c1f8aa44759180f12b2f20b2"
+  integrity sha512-hz/t7tR5mcPj8LVzIx7N7qMCrqnj5RmiCx2oDNIbBwngy5ChsYg0khsFCzQNF3d5TnngTmeCGDh0qLtrIkD6zw==
+  dependencies:
+    "@mdx-js/tag" "^0.20.3"
+    chalk "2.4.2"
+    date-fns "^2.2.1"
+    meow "5.0.0"
+
+"@mdx-js/tag@^0.20.3":
+  version "0.20.3"
+  resolved "https://registry.yarnpkg.com/@mdx-js/tag/-/tag-0.20.3.tgz#9e2306040b6469248c45a5f5baf44d0014db0493"
+  integrity sha512-Co3gUFmNDv9z2LjuvLTpTj2NaOSHFxuoZjohcG0YK/KfECO+Ns9idzThMYjfEDe1vAf4c824rqlBYseedJdFNw==
+
 ansi-styles@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-3.2.1.tgz#41fbb20243e50b12be0f04b8dedbf07520ce841d"
@@ -87,6 +102,11 @@ currently-unhandled@^0.4.1:
   integrity sha1-mI3zP+qxke95mmE2nddsF635V+o=
   dependencies:
     array-find-index "^1.0.1"
+
+date-fns@^2.2.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.4.1.tgz#b53f9bb65ae6bd9239437035710e01cf383b625e"
+  integrity sha512-2RhmH/sjDSCYW2F3ZQxOUx/I7PvzXpi89aQL2d3OAxSTwLx6NilATeUbe0menFE3Lu5lFkOFci36ivimwYHHxw==
 
 decamelize-keys@^1.0.0:
   version "1.1.0"
