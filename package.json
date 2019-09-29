@@ -15,7 +15,7 @@
   ],
   "private": true,
   "dependencies": {
-    "contentz": "^3.13.2"
+    "contentz": "^3.14.1"
   },
   "devDependencies": {},
   "husky": {
