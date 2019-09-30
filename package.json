@@ -16,6 +16,7 @@
   "private": true,
   "dependencies": {
     "@contentz/build": "^2.3.0",
+    "@emotion/core": "^10.0.17",
     "contentz": "^3.14.1"
   },
   "devDependencies": {},
