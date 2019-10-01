@@ -2,7 +2,7 @@
   "name": "Contentz",
   "description": "Is not another programming blog",
   "scripts": {
-    "build": "contentz build && contentz social home error articles links",
+    "build": "contentz build",
     "social": "contentz social",
     "write": "contentz write",
     "watch": "watch \"yarn build\" articles pages",
