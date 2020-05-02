@@ -1,7 +1,7 @@
 ---
 title: Santiago Ruffino's Blog
-description: Is not another programming blog
-language: en
+description: No es OTRO blog sobre programacion...
+language: es
 domain: https://santiruffino.com
 incremental: false # Change to `true` if your server support keeping `.cache` and `public` folders
 repository: https://github.com/santiruffino/personal-blog
@@ -10,3 +10,8 @@ social:
   twitter: santiruffinodev
   github: santiruffino
 icon: /static/icon_48.png
+navigation:
+  - name: Charlas
+    path: /charlas
+  - name: articulos
+    path: /articulos
