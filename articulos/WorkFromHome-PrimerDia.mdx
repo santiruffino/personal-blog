@@ -1,0 +1,63 @@
+---
+title: Work from Home. Mi primera vez
+date: 2019-09-30T13:50:00.000Z
+published: true
+---
+
+Hola, he vuelto! Pero esta vez, con un articulo fuera de la serie de Yo Programador (va a volver).
+Esta vez, quiero contarles sobre una experiencia laboral nueva.
+
+### TUVE MI PRIMER WORK FROM HOME EN MI NUEVO TRABAJO
+
+![YAY](https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif)
+
+Hace dos semanas, tuve mi primer dia de Home Office en mi nuevo trabajo. Si bien habia tenido un par de dias de trabajar desde casa en mi otro trabajo, eran mas boludeo que otra cosa.
+Nadie me controlaba, no tenia tickets, ni objetivos. Y encima, al ser el unico developer, nadie sabia que hacia y que no hacia. 
+Con tener Slack o Whatsapp abierto con la compu prendida por cualquier consulta de imprevisto, era suficiente.
+Visual Code. Y que?).
+
+Inicie a correr el proyecto (la app mobile). No funcionaba. Respire profundo, y pense 'Es muy temprano para renegar'. Asi que me levante y me prepare una taza de cafe.
+Una vez vez que termine de preparar el cafe, me sente nuevamente al frente de la computadora y con la cabeza mas despierta dije 'Cierto, necesito la VPN'.
+Abrimos terminal, ejecutamos la VPN y volvemos a correr el proyecto.
+
+Todo funciona como deberia 🙌
+
+![YAY(2)](https://media.giphy.com/media/lSbTmUmQwxUmiExV4h/giphy.gif)
+
+
+Abro Spotify, y busco algo lo suficientemente buena como para arrancar el dia, pero no tanto como para ponerme violento. 
+Inicio una radio de Spotify basada en Dancing Mood. Perfecto.
+
+
+Empiezo a trabajar en la app, y me doy cuenta que esta muy lenta. Pense que era algo normal ya que al estar trabajando con un entorno local, tenia corriendo 5 Dockers + la app en Angular.
+
+A todo esto, se hacen las 10:25. En 5 minutos tengo la Daily Meeting. Me conecto con tiempo para probar la conexion, que se escuche bien, etc.
+Por suerte, todo funciona como deberia. Puedo tener mi Daily Meeting en paz. Mis mayores miedo de que se cortara internet, que se rompieran los auriculares o empezar a hablar sin darme cuenta que el microfono esta muteado solo suceden en mi cabeza.
+
+Segui trabajando con la aplicacion. En una de esas, intento buscar un par de canciones en Youtube y me doy cuenta que no cargaba ningun video.
+Abro Gmail, y no terminaba de cargar nunca. Lo primero que pense fue 'Fua, se rompio Google'. 2 segundos pense 'Nah, es mi internet. Seguro'.
+Asi que fui a hacer un speed test y efectivamente, estaba teniendo menos de 5 megas para conectarme. Nunca iba a poder ver un video.
+
+Pensando que podia ser, me desconecto de la VPN. Inmediatamente despues que hago eso, parece que tuviera el internet de la NASA (a comparacion de la VPN).
+Hablo con el tipo de IT de la empresa y me dice 'Si, la VPN te va a tirar abajo la conexion. Olvidate de usar Youtube y esas cosas. Vas a poder trabajar y nada mas que eso.'
+
+Problema. Sin la VPN, no puedo conectarme a las bases de datos. Sin las bases de datos, no puedo trabajar con mi entorno local. Asi que tuve que sacrificar Youtube.
+Por suerte, Spotify funcionaba bien aun con la VPN.
+
+
+Habiendo superado todo esto, vuelvo al ruedo. Sigo trabajando con la app hasta que creo que termine con mis cambios. Pruebo el unico caso que conozco, y funciona perfecto.
+Hablando con una companera por Slack, me pide que testee otros escenarios, pero son casos muy de negocio y la verdad que no los entiendo.
+Si estuviera trabajando onsite, me daria vuelta y preguntaria. Lo soluciono en 5 minutos. Pero no, por Slack las cosas se complican un poco mucho.
+
++1 para el trabajo onsite ?)
+
+_Nota mental para el proximo dia de WFH: Acomodar las users para poder trabajar con la menor cantidad de blockers posibles._
+
+Despues de luchar por intentar testear los casos de negocio para mi cambio, me rendi. Tome la decision de seguir avazando con lo que pudiera.
+Termine trabajar en toda la UI de mis cambios, y me concentre en dejar lo mas lindo posible todos mis cambios.
+
+Y asi, entre cosa y cosa, se termino mi dia de WFH...
+
+_Adjunto el gif con el que me despedi por el Slack del trabajo_
+
+![YAY(2)](https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif)

@@ -13,5 +13,5 @@ icon: /static/icon_48.png
 navigation:
   - name: Charlas
     path: /charlas
-  - name: articulos
+  - name: Articulos
     path: /articulos
