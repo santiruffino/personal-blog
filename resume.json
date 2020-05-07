@@ -2,6 +2,8 @@
     "basics": {
         "name": "Santiago Javier Ruffino",
         "summary": "I'm 22 years old. I started to work in Systems when I was 19. I'm always trying to keep my knowledge in the most recent technology. Also, I'm a volunteer in Facebook Developers Circle.",
+        "email": "santiagoruffino@gmail.com",
+        "website": "https://santiruffino.com",
         "label": "Software Developer",
         "location": {
             "city": "Córdoba",
@@ -16,16 +18,6 @@
                 "network": "GitHub",
                 "username": "santiruffino",
                 "url": "https://github.com/santiruffino"
-            },
-            {
-                "network": "Email",
-                "username": "santiagoruffino@gmail.com",
-                "url": "santiagoruffino@gmail.com"
-            },
-            {
-                "network": "Personal Website",
-                "username": "https://santiruffino.com",
-                "url": "https://santiruffino.com"
             }
         ]
     },
