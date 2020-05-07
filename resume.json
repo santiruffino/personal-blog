@@ -1,0 +1,83 @@
+{
+    "basics": {
+        "name": "Santiago Javier Ruffino",
+        "summary": "I'm 22 years old. I started to work in Systems when I was 19. I'm always trying to keep my knowledge in the most recent technology. Also, I'm a volunteer in Facebook Developers Circle.",
+        "email": "santiagoruffino@gmail.com",
+        "website": "https://santiruffino.com",
+        "label": "Software Developer",
+        "location": {
+            "city": "Córdoba",
+            "region": "Argentina"
+        },
+        "profiles": [{
+                "network": "Twitter",
+                "username": "santiruffinodev",
+                "url": "https://twitter.com/santiruffinodev"
+            },
+            {
+                "network": "GitHub",
+                "username": "santiruffino",
+                "url": "https://github.com/santiruffino"
+            }
+        ]
+    },
+    "work": [{
+            "company": "ID90 Travel",
+            "position": "Software Developer",
+            "website": "https://id90travel.com",
+            "startDate": "2019-06-04"
+        },
+        {
+            "company": "Madketing",
+            "position": "Software Developer",
+            "website": "https://madketing.co/",
+            "startDate": "2017-11-01",
+            "endDate": "2019-05-31"
+        }
+    ],
+    "education": [{
+        "institution": "CEF San Buenaventura",
+        "area": "Economics and Business Administration",
+        "studyType": "Bachelor",
+        "startDate": "2010-03-01",
+        "endDate": "2015-12-01"
+    }],
+    "skills": [{
+            "name": "Software Developer",
+            "keywords": [
+                "Angular",
+                "Node.js",
+                "Rails",
+                "Express",
+                "MySQL",
+                "Flask",
+                "Django",
+                "AWS/S3",
+                "Git",
+                "Docker",
+                "Drone CI"
+            ]
+        },
+        {
+            "name": "Languages",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "Python",
+                "Ruby",
+                "PHP"
+            ]
+        }
+    ],
+    "languages": [{
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Intermediate"
+        }
+    ]
+}
